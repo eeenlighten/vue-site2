@@ -1,5 +1,5 @@
 <template>
-    <section id="textType"> 
+    <section id="textType" v-bind:class="fonts"> 
         <div class="textType__wrap">
             <h2 class="ir_so"> 교육과정 </h2>    
             <div class="textType__text">                  

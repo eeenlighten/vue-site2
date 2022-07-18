@@ -1,5 +1,5 @@
 <template>
-    <section id="sliderType">
+    <section id="sliderType" class="slider_wrap" v-bind:class="fonts">
         <h2 class="ir_so">슬라이드 영역</h2>
         <div class="slider__inner">
             <div class="slider">
