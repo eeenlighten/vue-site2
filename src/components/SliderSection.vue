@@ -78,8 +78,8 @@
     top: 50%;
     transform: translateY(-50%);
     width: 27px;
-    height: 39px;
-    background: url(../assets/img/slider_icon.svg);
+    height: 38px;
+    background: url(../assets/img/slider_icon.png);
 }
 .slider__arrow .left{
     left: 10px;
@@ -98,7 +98,7 @@
 .slider__dot a {
     width: 14px;
     height: 14px;
-    background: url(../assets/img/slider_icon.svg);
+    background: url(../assets/img/slider_icon.png);
     display: inline-block;
     margin: 2px;
 }

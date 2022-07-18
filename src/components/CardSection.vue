@@ -1,5 +1,5 @@
 <template>
-    <section id="cardType" class="section" v-bind:class="fonts">
+    <section id="cardType" class="card__wrap section" v-bind:class="fonts">
         <h2>스킬UP 교육</h2>
         <p>국가 대표 최고의 강사진<br />우수한 교수진들의 높은 교육 완성도를 자랑합니다.</p>
         <div class="card__inner container">

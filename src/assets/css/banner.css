@@ -2,7 +2,7 @@
     height: 300px;
 }
 .banner__wrap {
-    background-image: url(../images/banner02.jpg);
+    background-image: url(../img/banner02.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;

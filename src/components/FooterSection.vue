@@ -1,5 +1,5 @@
 <template>
-    <footer id="footerType" class="section" v-bind:class="fonts">
+    <footer id="footerType" class="footer__wrap section" v-bind:class="fonts">
         <h2 class="ir_so">푸터 영역</h2>
         <div class="footer__inner container">
             <div class="footer__wrap">
@@ -132,8 +132,8 @@
     margin-left: 11px;
   }
   .icon li:nth-child(4) img{
-    width: 42px;
-    padding-top: 6px;
+    width: 35px;
+    padding-top: 3px;
   }
   .icon li:nth-child(5) img{
     padding-top: 8px;

@@ -1,5 +1,5 @@
 <template>
-    <section id="bannerType" class="section" v-bind:class="fonts">
+    <section id="bannerType" class="banner__wrap section" v-bind:class="fonts">
         <h2 class="ir_so">배너 영역</h2>
         <div class="banner__inner">
             <h3 class="banner__title">PET ACADEMY</h3>
